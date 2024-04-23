@@ -1,0 +1,40 @@
+<html>
+<head>
+     <title> MAJOR DYAN CHAND</title>
+</head>
+<body>
+<P><H2>
+                                                     <p style="text-align: center; color: blue;"> MAJOR DHYAN CHAND</p>
+</h2><p style>
+
+<img src ="https://pragativadi.com/core/uploads/2022/08/IMG_20220829_091051.jpg"  width =300>
+<h3><em><p style="text-align: left; color:purple;">
+Dhyan Chand (29 August 1905 – 3 December 1979)</p style>was an Indian field hockey player. He is widely regarded by many as the greatest field hockey player in world history. He was known for his extraordinary ball control and goal-scoring feats, in addition to earning three Olympic gold medals, in 1928, 1932 and 1936, during an era where India dominated field hockey. His influence extended beyond these victories, as India won the field hockey event in seven out of eight Olympics from 1928 to 1964
+
+Known as The Wizar or The Magician of hockey for his superb ball control, Chand played internationally from 1926 to 1949.</h3></em>
+
+
+<img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Dhyan_Chand_with_the_ball_vs._France_in_the_1936_Olympic_semi-finals.jpg/330px-Dhyan_Chand_with_the_ball_vs._France_in_the_1936_Olympic_semi-finals.jpg" width =100>
+</img>
+<img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Dhyan_Chand_statue_at_Jhansi_city%2C_Uttar_Pradesh.jpg/330px-Dhyan_Chand_statue_at_Jhansi_city%2C_Uttar_Pradesh.jpg" width=100>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Dhyan_Chand_1936_final.jpg/330px-Dhyan_Chand_1936_final.jpg" width=200>
+</img>
+
+<br>
+</br>
+<a href ="https://en.wikipedia.org/wiki/Dhyan_Chand">
+click on this to open the web
+
+</a>
+
+
+
+
+
+
+
+
+
+
+</html>
